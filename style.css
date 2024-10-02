@@ -206,23 +206,39 @@ footer {
     flex: 10%;
 }
 .cartTitle {
+<<<<<<< HEAD
     flex: 20%;
+=======
+    width: 20%;
+>>>>>>> 62a2f23d08459f016171c7797802c7abf9e7453b
     font-weight: bold;
     padding-left: 10px;
 }
 .cartDescription {
+<<<<<<< HEAD
     flex: 50%;
     padding-left: 10px;
 }
 .cartQuantity {
     flex: 10%;
+=======
+    width: 50%;
+    padding-left: 10px;
+}
+.cartQuantity {
+    width: 10%;
+>>>>>>> 62a2f23d08459f016171c7797802c7abf9e7453b
 }
 .cartQuantity input {
     margin-top: 17px;
     width: 50px;
 }
 .cartPrice {
+<<<<<<< HEAD
     flex: 10%;
+=======
+    width: 10%;
+>>>>>>> 62a2f23d08459f016171c7797802c7abf9e7453b
     padding-left: 10px;
 }
 .removeMargins {
